@@ -37,3 +37,5 @@ The workshop takes about a 1.5 hours
 
 - *Al-Kunstgenerator | Adobe Express*. (z.d.). https://www.adobe.com/nl/products/firefly/features/ai-art-generator.html
 - Oberleiter, A. (2024, 30 september). *Adobe Firefly: Stap-voor-stap handleiding voor het selecteren en vervangen van objecten*. Tutkit.com. https://www.tutkit.com/nl/tekst-tutorials/1572-adobe-firefly-stapsgewijze-handleiding-voor-het-selecteren-en-vervangen-van-objecten
+
+# Learn in 5 steps

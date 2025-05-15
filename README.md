@@ -30,9 +30,9 @@ The workshop takes about a 1.5 hours
 - You'll be paired live by ChatGPT
 - Each duo:
     
-    ➤ One person with **Adobe access**
+    One person with **Adobe access**
     
-    ➤ One person **without Adobe**
+    One person **without Adobe**
     
 - Goal: collaborate, combine strengths
 

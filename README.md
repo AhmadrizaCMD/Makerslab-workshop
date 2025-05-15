@@ -42,6 +42,25 @@ The workshop takes about a 1.5 hours
 
 ## step 1 Intro ChatGPT + Prompt Workshop
 
+- You'll be paired live by ChatGPT
+- Each duo:
+    
+    ➤ One person with **Adobe access**
+    
+    ➤ One person **without Adobe**
+    
+- Goal: collaborate, combine strengths
+
+Each pair will create:
+
+1. **A unique character prompt** → using ChatGPT
+2. **An image of the character** → using Adobe Firefly
+3. **A voice slogan** → using ElevenLabs
+    
+You’ll post the final result in Teams
+    
+We’ll vote for the most original creation!
+
 
 ## step 2 Adobe Firefly Workshop
 

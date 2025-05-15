@@ -64,11 +64,45 @@ We’ll vote for the most original creation!
 
 ## step 2 Adobe Firefly Workshop
 
+**Key Features**
+
+- Text-to-image generation
+- Generative fill and text effects
+- Style & tone control
+
+Tips for strong results:
+
+- Use adjectives and details (style, lighting, setting)
+- Try different styles (realistic, cartoon, vintage, etc.)
+
 
 ## step 3 ElevenLabs Workshop
 
+**How It Works**
+
+- Text-to-speech with cloned voices
+- Many tones, accents, and styles available
+
+Task: Write and record a **catchphrase or slogan** for your character
+
+Example: *“Justice is only a laser beam away.”*
+
 
 ## step 4 Building character (putting everything together)
+Bring it all together:
+
+1. Prompt (ChatGPT)
+2. Visual (Firefly)
+3. Audio slogan (ElevenLabs)
+
+Share your final creation in the Teams group
+
+- 1 post per duo with all three parts
+- Make it neat and creative!
 
 
 ## step 5 Voting round + Showcase + Winner
+- Time to see everyone’s work
+- Use the voting form to choose your favorite
+    
+Winner gets a sweet prize!

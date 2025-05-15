@@ -1,5 +1,7 @@
 #  AI Workshop Creating a Character with AI
 
+<img width="500" alt="Scherm­afbeelding 2025-05-15 om 15 01 54" src="https://github.com/user-attachments/assets/2ccd1bed-cdb1-44bf-aa1e-d46186468003" />
+
 
 ##  Why
 We chose AI because it is a technology that is increasingly influencing our daily lives - often without us realizing it. With the workshop we want to show what AI is, how it works, and what you can (and cannot) do with it. By working with it themselves in the workshop, participants can better understand what AI means for them, now and in the future.

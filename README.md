@@ -78,7 +78,7 @@ Task: Write and record a **catchphrase or slogan** for your character
 
 Example: *“Justice is only a laser beam away.”*
 
-<img width="1437" alt="Scherm­afbeelding 2025-06-11 om 13 17 37" src="https://github.com/user-attachments/assets/8e4664f5-aecc-4272-bd0c-159504b07a91" />
+<img width="500" alt="Scherm­afbeelding 2025-06-11 om 13 17 37" src="https://github.com/user-attachments/assets/8e4664f5-aecc-4272-bd0c-159504b07a91" />
 
 
 

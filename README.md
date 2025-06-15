@@ -1,6 +1,5 @@
 #  AI Workshop Creating a Character with AI
-
-<img width="500" alt="Scherm­afbeelding 2025-05-15 om 15 01 54" src="https://github.com/user-attachments/assets/2ccd1bed-cdb1-44bf-aa1e-d46186468003" />
+<img src="img/gorilla.png" alt="Gorilla in pak" width="500">
 
 
 ##  Why
@@ -46,9 +45,7 @@ You’ll post the final result in Teams
     
 We’ll vote for the most original creation!
 
-<img width="788" alt="Scherm­afbeelding 2025-06-11 om 13 14 28" src="https://github.com/user-attachments/assets/f090a051-3c2f-41df-a78b-3898031b7cd2" />
-
-
+<img src="img/chatgpt.png" alt="Gorilla in pak" width="788">
 
 ## step 2 Adobe Firefly Workshop
 
@@ -63,8 +60,7 @@ Tips for strong results:
 - Use adjectives and details (style, lighting, setting)
 - Try different styles (realistic, cartoon, vintage, etc.)
 
-<img width="510" alt="Scherm­afbeelding 2025-06-11 om 13 15 08" src="https://github.com/user-attachments/assets/f0e80121-0c99-46d7-a7d9-5d7651260323" />
-
+<img src="img/Firefly.png" alt="Gorilla in pak" width="510">
 
 
 ## step 3 ElevenLabs Workshop
@@ -78,8 +74,7 @@ Task: Write and record a **catchphrase or slogan** for your character
 
 Example: *“Justice is only a laser beam away.”*
 
-<img width="500" alt="Scherm­afbeelding 2025-06-11 om 13 17 37" src="https://github.com/user-attachments/assets/8e4664f5-aecc-4272-bd0c-159504b07a91" />
-
+<img src="img/elevenLabs.png" alt="Gorilla in pak" width="500">
 
 
 ## step 4 Building character (putting everything together)
@@ -94,8 +89,7 @@ Share your final creation in the Teams group
 - 1 post per duo with all three parts
 - Make it neat and creative!
 
-<img width="330" alt="Scherm­afbeelding 2025-06-11 om 13 15 37" src="https://github.com/user-attachments/assets/c766c4e4-e931-49c6-8624-ceeb9e07afda" />
-
+<img src="img/mix.png" alt="Gorilla in pak" width="330">
 
 
 ## step 5 Voting round + Showcase + Winner
